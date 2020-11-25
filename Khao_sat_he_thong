@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T04:11:58.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="uEGIQam_BY1UmON2fbaW" version="13.10.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-25T04:25:50.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="fZZeF5EOizFkzqde3QcO" version="13.10.1" type="github" pages="2">
   <diagram id="NeYti1pSbuAyf-kXGcI6" name="Biểu đồ chức năng tìm kiếm bệnh nhân">
     <mxGraphModel dx="2272" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1891,6 +1891,9 @@
         </mxCell>
         <mxCell id="OTYSnGdLypQD1SQcU_jc-21" value="Tên, ngày sinh, nơi sinh,&lt;br&gt;&amp;nbsp;thông tin địa chỉ, địa chỉ chi tiết" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="cyKwd_Emacs7HwuQzInL-1">
           <mxGeometry x="1020" y="1810" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldVnfaZg7JUZs0eyJzQ2-0" value="Tên, sđt, nơi sinh&lt;br&gt;thông tin địa chỉ, thông tin người bảo hộ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="cyKwd_Emacs7HwuQzInL-1">
+          <mxGeometry x="970" y="1060" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
